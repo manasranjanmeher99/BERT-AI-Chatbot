@@ -253,13 +253,13 @@ This project demonstrates knowledge of:
 
 ### Home Page
 
-_Add Screenshot_
+![Home](screenshots/home.png)
 
 ---
 
 ### Chat Interface
 
-_Add Screenshot_
+![Chat](screenshots/chat.png)
 
 ---
 
